@@ -14,6 +14,9 @@
     </a>
 </p>
 
+<img style="width:100vw" src="./readme.gif" alt="Gif/tarunkauxhik">
+
+
 
 <a href="https://github.com/tarunkauxhik">
     <img src="snake.svg" />
