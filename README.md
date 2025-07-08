@@ -1,4 +1,4 @@
-<p align="center">
+<!--<p align="center">
     <a href="tarunkaushik.bio.link" target="_blank">
         <img src="https://github.com/tarunkauxhik/tarunkauxhik/blob/main/cat.gif?raw=true" width="120" height="120"
             alt="Description of the image">
@@ -13,6 +13,9 @@
             src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKING%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPMENT;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;UI%2FUX%20DESIGNING;VIDEO EDITOR; EXPLORING%20AND%20LEARNING%20NEW%20TECH%20STUFFS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=21" />
     </a>
 </p>
+-->
+
+
 
 <img style="width:100vw" src="./readme.gif" alt="Gif/tarunkauxhik">
 
