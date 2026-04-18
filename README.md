@@ -11,16 +11,6 @@
 
 
 <p align="center">
-    🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
-    <img src="https://profile-counter.glitch.me/tarunkauxhik/count.svg" />
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkauxhik&theme=shadow_blue&layout=compact"
-        width="48%" />
-</p>
-
-
-<p align="center">
     <a href="https://github.com/tarunkauxhik?tab=repositories">
         <img src="https://github-readme-stats-one-bice.vercel.app/api?username=tarunkauxhik&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
             width="45%" alt="@tarunkauxhik's github-readme-stats">
@@ -32,24 +22,6 @@
 </p>
 <br />
 
-
-<details>
-    <summary>Skills</summary>
-
-    - Video Editing
-    - Graphic Designing
-    - Blender
-
-</details>
-
-<details>
-    <summary>Hobbies</summary>
-    🍽️ 🛌 👨🏻‍💻 🔁
-    </br>
-    🎮 Gaming
-    🌏 Traveling
-
-</details>
 
 
 ---
