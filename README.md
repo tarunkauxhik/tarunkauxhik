@@ -1,10 +1,16 @@
 <img style="width:100vw" src="./readme.gif" alt="Gif/tarunkauxhik">
 
+
+<br />
+<br />
+
+
 <a href="https://github.com/tarunkauxhik">
     <img src="snake.svg" />
 </a>
 
-## Skills & Technologies
+
+## 🧑‍💻 Skills & Technologies
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" height="40"/>
@@ -28,26 +34,36 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" height="40"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flask.png" height="40" style="background-color:white;border-radius:6px;padding:2px"/>
-  <img width="12" />
+
+</div>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/supabase.png" height="40"/>
-</div>
-
-###
-
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/langchain/00A67E" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
   <img width="12" />
+</div>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img width="12" />
@@ -62,11 +78,16 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" height="40"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rest.png" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
 </div>
 
 
+<br />
+<br />
 
-## Creative Tools
+
+## 🎨 Creative Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40"/>
@@ -84,7 +105,12 @@
 
 
 
-<p align="center">
+<br />
+<br />
+
+
+
+<div align="left">
     <a href="https://github.com/tarunkauxhik?tab=repositories">
         <img src="https://github-readme-stats-one-bice.vercel.app/api?username=tarunkauxhik&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
             width="45%" alt="@tarunkauxhik's github-readme-stats">
@@ -93,9 +119,10 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=tarunkauxhik&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
             width="45%" alt="@AJ's github-readme-streak-stats">
     </a>
-</p>
+</div>
+
+<br />
 <br />
 
-<hr />
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&quoteCategory=programming)
