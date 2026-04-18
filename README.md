@@ -89,7 +89,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
 </div>
 
-<br />
 
 ## Creative Tools
 
@@ -113,11 +112,11 @@
 
 <div align="left">
     <a href="https://github.com/tarunkauxhik?tab=repositories">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=tarunkauxhik&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tarunkauxhik&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
             width="45%" alt="@tarunkauxhik's github-readme-stats">
     </a>
     <a href="https://github.com/tarunkauxhik=stars">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=tarunkauxhik&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkauxhik&theme=shadow-blue&hide_border=true&background=0D1117" alt="GitHub Streak&date_format=M%20j%5B%2C%20Y%5D"
             width="45%" alt="@AJ's github-readme-streak-stats">
     </a>
 </div>
