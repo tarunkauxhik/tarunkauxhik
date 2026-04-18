@@ -7,7 +7,20 @@
 
 ## 🛠️ Skills & Technologies
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nodejs,express,postgres,mongodb,supabase,firebase,py,pytorch,sklearn,numpy,pandas,matplotlib,docker,git,github,vercel,netlify,render,vscode,postman,npm,notion,discord,c,cpp,blender,ae,pr&perline=8)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,bootstrap,nodejs,express,postgres,mongodb,supabase,firebase,py,pytorch,sklearn,numpy,pandas,matplotlib,docker,git,github,vercel,netlify,render,vscode,postman,npm,c,cpp&perline=7" />
+</p>
+
+### 🎨 Creative Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,blender,ae,pr&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+</p>
 
 
 <p align="center">
