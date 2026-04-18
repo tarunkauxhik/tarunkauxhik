@@ -7,16 +7,7 @@
 
 ## 🛠️ Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=
-html,css,js,ts,bootstrap,tailwind,react,
-nodejs,express,rest,postgres,supabase,firebase,mongodb,
-py,pytorch,sklearn,numpy,pandas,matplotlib,
-docker,git,github,vercel,netlify,render,
-vscode,postman,npm,notion,discord,
-c,cpp,
-blender,ae,pr
-&perline=10)](https://skillicons.dev)
-
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nodejs,express,postgres,supabase,firebase,mongodb,py,pytorch,sklearn,numpy,pandas,matplotlib,docker,git,github,vercel,netlify,render,vscode,postman,npm,notion,discord,c,cpp,blender,ae,pr&perline=10)
 <p align="center">
     🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
     <img src="https://profile-counter.glitch.me/tarunkauxhik/count.svg" />
