@@ -1,23 +1,40 @@
 <img style="width:100vw" src="./readme.gif" alt="Gif/tarunkauxhik">
 
-
 <a href="https://github.com/tarunkauxhik">
     <img src="snake.svg" />
 </a>
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
-![My Skills](https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,render,vscode,postman,npm,react,ts,tailwind,bootstrap,nodejs,express,postgres,mongodb,supabase,firebase,pytorch,sklearn,numpy,pandas,matplotlib&perline=9)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+</p>
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py&perline=9)
 
-### 🎨 Creative Tools
+### Creative Tools
 
-![Creative](https://skillicons.dev/icons?i=ae,blender,pr,figma,ps&perline=6)
-
-![Creative](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Creative](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white)
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" />
+</p>
 
 <p align="center">
     <a href="https://github.com/tarunkauxhik?tab=repositories">
@@ -30,26 +47,6 @@
     </a>
 </p>
 <br />
-
-
-
----
-``` java
-// Check if the code is functioning correctly
-if (isCodeWorking) {
-    // Continuously improve the code quality until it reaches perfection
-    while (codeQuality < perfection) {
-        codeQuality++; // Increment code quality
-    }
-}
-
-while(alive) {
-  eat();
-  sleep();
-  code();
-}
-// - Tarun Kaushik
-```
 
 <hr />
 
