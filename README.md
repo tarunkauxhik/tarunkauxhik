@@ -1,16 +1,11 @@
 <img style="width:100vw" src="./readme.gif" alt="Gif/tarunkauxhik">
 
 
-<br />
-<br />
-
-
 <a href="https://github.com/tarunkauxhik">
     <img src="snake.svg" />
 </a>
 
-
-## 🧑‍💻 Skills & Technologies
+## Tech Stack
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" height="40"/>
@@ -23,6 +18,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" height="40"/>
@@ -34,7 +33,8 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" height="40"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flask.png" height="40" style="background-color:white;border-radius:6px;padding:2px"/>
-
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40"/>
 </div>
 
 <div align="left">
@@ -46,6 +46,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/langchain/00A67E" height="40"/>
@@ -54,10 +56,15 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40"/>
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img width="12" />
 </div>
 
 <div align="left">
@@ -82,12 +89,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
 </div>
 
-
-<br />
 <br />
 
-
-## 🎨 Creative Tools
+## Creative Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40"/>
@@ -104,10 +108,7 @@
 </div>
 
 
-
 <br />
-<br />
-
 
 
 <div align="left">
@@ -121,7 +122,7 @@
     </a>
 </div>
 
-<br />
+
 <br />
 
 
